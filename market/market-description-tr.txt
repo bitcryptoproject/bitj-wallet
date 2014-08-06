@@ -1,0 +1,21 @@
+Bit'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyarak çabuk ödeme yapabilirsiniz. Bir tüccar olarak ödemeleri güvenilir ve anında alabilirsiniz. Bit cüzdanı ilk mobil Bit uygulamasıdır ve muhtemelen en güvenli Bit uygulamasıdır!
+
+İŞLEVLERİ:
+• Hiçbir oturuma, web ya da bulut hizmetine gerek yoktur. Bu cüzdan merkezsiz ve eşten eşedir.
+• Bit meblağlarının BIT ve mBIT olarak gösterilmesi.
+• Ulusal para birimlerine ve bu para birimlerinden dönüştürme.
+• NFC, QR kodu veya Bit bağlantıları ile Bit gönderir ve alır.
+• Sık kullanılan Bit adresleri için adres defteri içerir.
+• Çevrimdışı olduğunuzda Bluetooth vasıtasıyla ödemeler.
+• Alınan Bit'ler için sistem bildirimleri.
+• Bit bakiyesini görüntüleyen widget.
+
+Bit hakkında daha fazla bilgi için şu siteyi ziyaret edebilirsiniz:
+http://bit.io
+
+Bit Wallet uygulamasına katkıda bulunmak istiyorsanız proje sayfasını ziyaret ediniz:
+https://github.com/HashEngineering/bit-wallet
+
+Lisans: GPLv3
+Tüm riski siz üstlenmiş olursunuz.
+http://www.gnu.org/licenses/gpl-3.0.en.html

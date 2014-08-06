@@ -1,0 +1,20 @@
+Dit is een standalone Bit Wallet voor uw Android apparaat. U kan direct Bits versturen tussen telefoons door simpelweg de QR-code te scannen die de app weergeeft of via NFC (Near Field Communication).
+
+FUNCTIES:
+
+• Weergeven van het wallet saldo in Bit en verschillende andere valuta.
+• Verzenden en ontvangen van Bit via NFC, QR-codes of Bit URLs.
+• Adresboek voor veelgebruikte Bit adressen.
+• Transacties ingeven tijdens het offline zijn, deze zullen worden uitgevoerd wanneer u online komt.
+• Systeem melding over Bit connectiviteit en ontvangen Bits.
+• Widget voor Bit saldo.
+
+Voor meer informatie over Bit kunt u terecht op
+http://bit.io
+
+Als u een bijdrage wil leveren aan Bit Wallet, het project is te vinden op
+https://github.com/HashEngineering/bit-wallet
+
+Licentie: GPLv3
+Gebruik op eigen risico!
+http://www.gnu.org/licenses/gpl-3.0.en.html

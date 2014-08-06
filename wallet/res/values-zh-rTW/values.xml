@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+
+	<string-array name="preferences_precision_labels">
+		<item>BIT, 8位數</item>
+		<item>BIT, 6位數</item>
+		<item>BIT, 4位數</item>
+		<item>mBIT, 2位數</item>
+		<item>µBIT, 0位數</item>
+	</string-array>
+
+</resources>

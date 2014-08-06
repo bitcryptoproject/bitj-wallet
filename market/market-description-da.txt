@@ -1,0 +1,22 @@
+Hav altid dine Bits med dig i din lomme! Du betaler ved hurtigt at scanne en QR-kode. Som handlende kan du modtage betalinger pålideligt og øjeblikkeligt. Bit Wallet er den første mobile Bit-app, og muligvis også den mest sikre!
+
+FUNKTIONER:
+
+• Ingen registrering, webservice eller sky behøves! Tegnebogen er decentraliseret og peer-to-peer.
+• Visning af Bit-beløb i BIT, mBIT og µBIT.
+• Konvertering til og fra lokale valutaer.
+• Afsendelse og modtagelse af Bit via NFC, QR-koder eller Bit-URLer.
+• Adressebog til ofte brugte Bit-adresser.
+• Når du er offline, kan du stadig betale via Bluetooth.
+• Systemnotifikation for modtagne mønter.
+• App-widget for Bit-saldo.
+
+Du kan finde mere om Bit på
+http://bit.io
+
+Hvis du vil bidrage til Bit Wallet, kan projektet findes på
+https://github.com/HashEngineering/bit-wallet
+
+Licens: GPLv3
+Brug for egen risiko!
+http://www.gnu.org/licenses/gpl-3.0.en.html

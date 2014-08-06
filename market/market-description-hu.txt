@@ -1,0 +1,26 @@
+Tartsd a zsebedben Bitjaidat! Egyszerűen, akár QR-kód leolvasásával is fizethetsz. Ha pedig termékeket, vagy szolgáltatást értékesítesz megbízható módon és gyorsan juthatsz a bevételeidhez. A Bit Tárca az első Bit app és kétségkívül a legbiztonságosabb is!
+
+ELŐNYÖK:
+
+• Nincs regisztráció és nem szükséges semmiféle háttéralkalmazás futtatása (web, vagy cloud)! Decentralizált és közvetlen (P2P).
+• A Bitjaid mennyiségét BIT és mBIT formában is láthatod.
+• Átváltás a saját valutádra, oda-vissza.
+• Bit küldése és fogadása NFC, QR-kód vagy közvetlen URL segítségével.
+• Címtár a rendszeresen használt Bit címek számára.
+• Offline állapotban is fizethetsz - Bluetooth segítségével.
+• Rendszerüzenet Bit érkezésekor.
+• Widget a Bit egyenlegről.
+>>>>>>> upstream/prod
+
+Bővebben a Bit-ról:
+http://bit.io
+
+Ha hozzájárulnál a Bit Wallet projekthez:
+https://github.com/HashEngineering/bit-wallet
+
+
+
+
+Licensz: GPLv3
+Csak saját felelősségre használható!
+http://www.gnu.org/licenses/gpl-3.0.en.html

@@ -1,0 +1,20 @@
+Detta är en fristående Bit plånbok för Android. Du kan skicka Bits mellan telefoner genom att scanna den QR kod som visas på skärmen. Eller använda NFC (Near Field Communication).
+
+FUNKTIONER:
+
+• Visa plånbokens värde i Bits och andra valutor.
+• Skicka och ta emot Bits via NFC, QR-koder eller en Bit URL.
+• Adressbok för de Bit adresser man använder ofta.
+• Påbörja transaktioner medan du är offline, de utförs när du kommer online.
+• Systemnotifikationer när Bits skickats till dig, och när plånboken kommunicerar med nätverket.
+• App widget som visar plånbokens värde.
+
+Du kan lära dig mer om Bit genom att besöka
+http://bit.io
+
+Om du vill hjälpa till med utvecklingen av Bit Wallet så kan du hitta projektet här
+https://github.com/HashEngineering/bit-wallet
+
+Licens: GPLv3
+Använd på egen risk!
+http://www.gnu.org/licenses/gpl-3.0.en.html

@@ -1,0 +1,22 @@
+Have your Bits always with you, in your pocket! You pay by quickly scanning a QR-code. As a merchant, you receive payments reliably and instantly. Bit Wallet is the first mobile Bit app, and arguably also the most secure!
+
+FEATURES:
+
+• No registration, web service or cloud needed! This wallet is de-centralized and peer to peer.
+• Display of Bit amount in BIT, mBIT and µBIT.
+• Conversion to and from national currencies.
+• Sending and receiving of Bit via NFC, QR-codes or Bit URLs.
+• Address book for regularly used Bit addresses.
+• When you're offline, you can still pay via Bluetooth.
+• System notification for received coins.
+• App widget for Bit balance.
+
+You can find more about Bit at
+http://bit.io
+
+If you want to contribute to Bit Wallet, the project is located at
+https://github.com/HashEngineering/bit-wallet
+
+License: GPLv3
+Use at your own risk!
+http://www.gnu.org/licenses/gpl-3.0.en.html
